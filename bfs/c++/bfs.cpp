@@ -2,7 +2,7 @@
 # include <vector>
 # include <queue>
 
-# define mac 999
+# define MAX 999
 
 using namespace std;
 
